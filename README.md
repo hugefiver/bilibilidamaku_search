@@ -1,0 +1,2 @@
+# bilibilidamaku_search
+从哔哩哔哩的弹幕文件中检索含有某一字符串的弹幕的脚本
